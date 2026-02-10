@@ -5,4 +5,5 @@
 # Bitwise Operators
 # Assignment Operators
 # Unary Operators
+# Ternary Operators
 URL link : https://github.com/Batti-Mubeentaj/java/blob/main/java%20%20operators
