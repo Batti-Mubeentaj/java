@@ -53,5 +53,9 @@ public class Main{
        System.out.println("Post-increment (a++): " + e);
        e=a--;
        System.out.println("Post-decrement (a--): " + e);
+       System.out.println("\nTernary Operator:");
+       var age = 20;
+       var eligibility = (age >= 18) ? "eligible" : "Not eligible";
+       System.out.println("The person is " + eligibility + " for voting.");
     }
 }    
