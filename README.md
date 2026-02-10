@@ -22,4 +22,4 @@ This is a beginner-friendly Java program that demonstrates the use of primitive 
 - int
 - long
 
-  URL link: 
+  URL link: https://github.com/Batti-Mubeentaj/java/blob/main/Data%20Types
